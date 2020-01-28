@@ -1,0 +1,11 @@
+set(LIBCMINUS_SRC
+    lib/ast-codegen-visitor.cpp
+    lib/ast.cpp
+    lib/ast-dump-visitor.cpp
+    lib/ast-visitor.cpp
+    lib/diagnostics.cpp
+    lib/parser.cpp
+    lib/scanner.cpp
+    lib/semantics.cpp
+    lib/sourceman.cpp
+)
